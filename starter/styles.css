@@ -242,6 +242,7 @@ Modal
   height: 20rem;
   object-fit: cover;
   border-radius: var(--radius);
+  border: 2px dotted red;
 }
 .image-name {
   text-align: center;

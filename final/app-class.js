@@ -96,3 +96,4 @@ class Gallery {
 
 const nature = new Gallery(getElement('.nature'));
 const city = new Gallery(getElement('.city'));
+//kek
